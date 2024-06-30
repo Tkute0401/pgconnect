@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544298185862",
+    "project_id": "pgconnect2",
+    "storage_bucket": "pgconnect2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544298185862:android:711fed1a80499b6a754d07",
+        "android_client_info": {
+          "package_name": "com.example.pgconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSv2yKkcYhgRzQ8i1sNFM-ccdq0WzGSbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
